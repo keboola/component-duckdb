@@ -1,0 +1,12 @@
+{
+  "parameters": {
+                "mode": "advanced",
+                "queries":["CREATE view final AS SELECT * FROM '/code/tests/functional/advanced-in-parquet-out-csv/source/data/in/files/*.parquet'"],
+                "output": ["final"]
+            },
+  "image_parameters": {},
+  "action": "run",
+  "shared_code_row_ids": [],
+  "storage": {},
+  "authorization": {}
+}

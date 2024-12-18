@@ -1,0 +1,1 @@
+{"incremental": false, "write_always": false, "delimiter": ",", "enclosure": "\"", "column_metadata": {"id": [{"key": "KBC.datatype.basetype", "value": "INTEGER"}, {"key": "KBC.datatype.nullable", "value": false}], "name": [{"key": "KBC.datatype.basetype", "value": "STRING"}, {"key": "KBC.datatype.nullable", "value": false}]}, "columns": ["id", "name"]}
